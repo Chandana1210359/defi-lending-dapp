@@ -1,0 +1,15 @@
+defi-lending-dapp/
+├── contracts/
+│   └── DeFiLending.sol
+├── frontend/
+│   ├── pages/
+│   │   └── index.js
+│   ├── abi/
+│   │   └── DeFiLending.json
+│   ├── package.json
+│   └── ...
+├── scripts/
+│   └── deploy.js
+├── hardhat.config.js
+├── .gitignore
+└── README.md
